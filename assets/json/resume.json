@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yukun Tian",
+    "label": "Undergraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "213221787@seu.edu.cn",
+    "url": "https://ttiannaitt.github.io",
+    "summary": "I’m a student who is now focusing on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
