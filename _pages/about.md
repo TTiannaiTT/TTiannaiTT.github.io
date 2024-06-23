@@ -18,10 +18,11 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-#### Hi there 👋
-#### This is Yukun Tian!
-#### It's a pleasure to meet you!<br>
+Hi there 👋
 
+This is Yukun Tian!
+
+It's a pleasure to meet you!  
 
 - 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
 
