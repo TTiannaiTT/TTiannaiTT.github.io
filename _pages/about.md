@@ -18,14 +18,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Hi there 👋
-### This is Yukun Tian!
-### It's a pleasure to meet you!
+#### Hi there 👋
+#### This is Yukun Tian!
+#### It's a pleasure to meet you!
 
-- 🔭 I’m a student who is now focusing on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)  
-- 👯 I am now studying in the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
+
+- 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
+
+- 🔭 I’m now focusing on computer vision and machine learning. Currently I am working on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)  
+
 - 🌱 I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁)  
+
 - ⚡ Hobbies: taking photos, playing badminton, reading...  
+
 - 💬 Feel free to contact me!  
 
 -  ✨ On this website you can find #part# of my engineering and research work, but I will update it as soon as possible! ✨
