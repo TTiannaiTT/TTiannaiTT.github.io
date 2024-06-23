@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://aiia.seu.edu.cn/'>Affiliations</a>. Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications, Ministry of Education, China
+subtitle: <a href='https://aiia.seu.edu.cn/'>Affiliations</a>. Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications, Ministry of Education, China (Southeast University)
 
 profile:
   align: right
@@ -14,13 +14,13 @@ profile:
     <p>Nanjing, China.</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 #### Hi there 👋
 #### This is Yukun Tian!
-#### It's a pleasure to meet you!
+#### It's a pleasure to meet you!<br>
 
 
 - 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
