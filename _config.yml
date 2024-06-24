@@ -79,7 +79,7 @@ flickr_id: # your flickr id
 github_username: TTiannaiTT # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: # your instagram id
+instagram_id: # your instagram idf
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: TTiannaiTT's Journeys & Horizons # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog page! Explore personal stories and insights in "TTiannaiTT Journeys & Horizons"!
+blog_name: My Journeys & Horizons # blog_name will be displayed in your blog page
+blog_description: Welcome to my blog page. Explore personal stories and insights in "TTiannaiTT's Journeys & Horizons"!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

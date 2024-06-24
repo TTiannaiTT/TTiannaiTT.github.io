@@ -5,7 +5,7 @@
     "image": "",
     "email": "213221787@seu.edu.cn",
     "url": "https://ttiannaitt.github.io",
-    "summary": "New Researcher in Scientific Community | Hands-on Enthusiast | Robotics Dev | AIGC Lover | Amateur Photographer",
+    "summary": "New Researcher in Scientific Community | Hands-on Enthusiast | Robotics Dev | ACGN Lover | Amateur Photographer",
     "location": {
       "address": "",
       "postalCode": "510000",
@@ -70,14 +70,14 @@
   ],
   "awards": [
     {
-      "title": "2023 13th China Educational Robot Competition Regular Season & Challenge (as team captain)",
+      "title": "2023 13th China Educational Robot Competition Regular Season & Challenge (As Team Captain)",
       "date": "2023-11-01",
       "awarder": "National Special Prize & National First Prize",
       "url": "http://www.ercc.org.cn/",
       "summary": "As the team captain, I was responsible for the development of core motion control algorithms and path planning algorithms for the robot, as well as designing solutions and managing work distribution and personnel."
     },
     {
-      "title": "2022 12th China Educational Robot Competition Regular Season & Challenge (as team captain)",
+      "title": "2022 12th China Educational Robot Competition Regular Season & Challenge (As Team Captain)",
       "date": "2023-05-01",
       "awarder": "National Special Prize & National First Prize",
       "url": "http://www.ercc.org.cn/",
@@ -121,46 +121,11 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Example",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -216,6 +181,15 @@
         "Machine Recognition",
         "Generative AI"
       ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-latop",
+      "keywords": [
+        "Photograph",
+        "ACGN",
+        "Reading"
+      ]
     }
   ],
   "references": [
@@ -232,33 +206,33 @@
   ],
   "projects": [
     {
-      "name": " Ministry of Education Key Laboratory for Young Scholars Open Project: Event Information-Guided Multimodal Fusion Video Camouflage Object Detection Method",
+      "name": "Event Information-Guided Multimodal Fusion Video Camouflage Object Detection Method",
       "summary": "As the leading researcher, I am responsible for the overall project development and technical solution design. I have already submitted a paper as the first author to NeurIPS 2024 (CCFA).",
-      "highlights": ["Event-based Learning"],
+      "highlights": ["Event-based Learning","Ministry of Education Key Laboratory for Young Scholars Open Project"],
       "startDate": "2024-04-01",
       "endDate": "2026-04-01",
       "url": ""
     },
     {
-      "name": "National College Student Innovation and Entrepreneurship Training Project: Design of an Autonomous Decision-Making Navigation and Precision Strike Robot Based on Laser SLAM and Machine Vision",
+      "name": "Design of an Autonomous Decision-Making Navigation and Precision Strike Robot Based on Laser SLAM and Machine Vision",
       "summary": "As a core team member, I am responsible for robot motion control, embedded development, and part of the computer vision algorithm development. This project received an excellent rating during the conclusion acceptance defense.",
-      "highlights": ["Robotics","Machine Vision"],
+      "highlights": ["Robotics","Machine Vision","National College Student Innovation and Entrepreneurship Training Project"],
       "startDate": "2022-10-01",
       "endDate": "2024-05-01",
       "url": ""
     },
     {
-      "name": "Jiangsu Province College Student Innovation and Entrepreneurship Training Project: High-Performance Heterogeneous Collaborative Computing System for Mobile CPUs and GPUs for Complex Deep Neural Networks",
+      "name": "High-Performance Heterogeneous Collaborative Computing System for Mobile CPUs and GPUs for Complex Deep Neural Networks",
       "summary": "As the primary responsible researcher, I am in charge of the overall technical solution design and algorithm development. We are planning to submit our work to MobiCom (CCFA) in August.",
-      "highlights": ["Heterogeneous Computing","Mobile Computing"],
+      "highlights": ["Heterogeneous Computing","Mobile Computing","Jiangsu Province College Student Innovation and Entrepreneurship Training Project"],
       "startDate": "2024-06-01",
       "endDate": "2025-10-01",
       "url": ""
     },
     {
-      "name": " Jiangsu Province College Student Innovation and Entrepreneurship Training Project: Design and Application of Motion Target Identification and Prediction Models for Low-Latency Scenarios",
+      "name": "Design and Application of Motion Target Identification and Prediction Models for Low-Latency Scenarios",
       "summary": "As a core team member, I am responsible for the development of computer vision algorithms, model training and fine-tuning, and low-latency deployment on the robots.",
-      "highlights": ["Computer Vision","Robotics"],
+      "highlights": ["Computer Vision","Robotics","Jiangsu Province College Student Innovation and Entrepreneurship Training Project"],
       "startDate": "2024-06-01",
       "endDate": "2025-06-01",
       "url": ""
