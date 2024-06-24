@@ -21,7 +21,7 @@
       "url": "https://cs.seu.edu.cn/main.htm",
       "startDate": "2022-09-01",
       "endDate": "Now",
-      "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications and Jiangsu Provincial Key Laboratory of Network and Information Security, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
+      "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications and Jiangsu Provincial Key Laboratory of Network and Information Security, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
       "highlights": ["Event-based Learning","Multi-modal Fusion", "Heterogeneous Computing"]
     },
     {
@@ -35,14 +35,24 @@
   ],
   "volunteer": [
     {
-      "organization": "Southeast University Education Foundation, Rongjiang No. 1 Middle School",
-      "location": "Rongjiang County, Guizhou Province, China",
+      "organization": "Southeast University Education Foundation, Rongjiang No.1 Middle School",
+      "location": "Rongjiang, China",
       "position": "Teaching Volunteer",
       "url": "https://news.seu.edu.cn/2023/0730/c5485a456062/page.htm",
       "startDate": "2023-07-15",
       "endDate": "2023-08-06",
       "summary": "I volunteered to teach in remote and underdeveloped areas during the summer vacation, aiming to spread the knowledge and ideas to a wider region, providing support for the rural revitalization strategy with the energy of young talents.",
-      "highlights": ["Nominated for the Top Ten Social Practice Awards at Southeast University.", "Xinhuanet and other authoritative media have reported on this, with over 56,000 total views."]
+      "highlights": ["Nominated for the Top Ten Social Practice Awards at Southeast University", "Xinhuanet and other authoritative media have reported on this, with over 56,000 total views"]
+    },
+    {
+      "organization": "Guangzhou Huadu District Center for Disease Prevention and Control",
+      "location": "Huadu, China",
+      "position": "Volunteer",
+      "url": "https://news.seu.edu.cn/2023/0730/c5485a456062/page.htm",
+      "startDate": "2024-01-22",
+      "endDate": "2024-02-08",
+      "summary": "The activity included volunteer services, Spring Festival visits, in-depth interviews, and testing new products. Team members assisted the elderly, collaborated with local authorities for festive outreach. We designed two new products and obtained authorizations for two utility model patents. The effort gained wide media attention across various platforms.",
+      "highlights": ["First Prize in the Social Practice Competition at Southeast University (3%), Outstanding Individual Award, Outstanding Team Award", "Extensive media coverage across newspapers, television, and online news platforms, with over 42,000 total views","Obtain authorizations for two utility model patents"]
     }
   ],
   "education": [
@@ -55,7 +65,7 @@
       "startDate": "2022-09-01",
       "endDate": "now",
       "score": "GPA 3.8 / 4.0 (Currently)",
-      "courses": [""]
+      "courses": ["GPA 3.8 / 4.0 (Currently)"]
     }
   ],
   "awards": [
@@ -136,55 +146,60 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python / Pytorch",
+        "C++ / OpenCV",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Computer Vision",
+        "Machine Learning",
+        "Pattern Recognition"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computer Vision & Image Process",
+      "icon": "fa-solid fa-latop",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Event-based Learning",
+        "Multi-modal Fusion",
+        "Machine Recognition",
+        "Generative AI"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Hao Chen",
+      "icon": "fa-solid fa-tag",
+      "reference": "Associate Professor in the Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications, one of my advisors in the Southeast University."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Ruiting Zhou",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor in the Jiangsu Provincial Key Laboratory of Network and Information Security, one of my advisors in the Southeast University."
     }
   ],
   "projects": [
