@@ -1,8 +1,9 @@
 github_users:
   - torvalds
-  - alshedivat
+  - TTiannaiTT
 
 github_repos:
+  - TTiannaiTT/Course
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
