@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Welcome to the GitHub Repository page of my personal website! This page showcases the developer I admire, Linus Torvalds, and provides an overview of my own GitHub account. Explore the page to find out more about my coding projects, contributions, and collaborations.
+title: Repositories
+description: Welcome to the GitHub repositories page of my personal website! This page showcases the developer I admire, Linus Torvalds, and provides an overview of my own GitHub account. Explore the page to find out more about my coding projects, contributions, and collaborations.
 nav: true
 nav_order: 4
 ---
