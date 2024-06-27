@@ -8,20 +8,36 @@ nav_order: 6
 ---
 ## Academic Performance
 
-Machine Learning: 97 / 100
+Machine Learning(Billingual): 97 / 100 (Top 1)
 
-Pattern Recognition: 90 / 100
+Pattern Recognition(English): 90 / 100
 
-Data Structure: 100 / 100
+Optimization Method: 91 / 100
 
-Operating System: 
+Introduction to Artificial Intelligence(Billingual): 98 / 100 (Top 1)
 
-Optimization: 91 / 100
+Data Structure(Billingual): 100 / 100 (Top 1)
 
-Introduction to Artificial Intelligence: 98 / 100
+Operating System(English): 97 / 100
 
-Discrete Mathematics: 94 /100
+Programming & Algorithmic Language i: 93 / 100
 
-Linear Algebra: 98 / 100
+Programming & Algorithmic Language ii: 95 / 100
+
+Discrete Mathematics(Billingual): 94 /100
+
+Linear Algebra: 98 / 100 (Top 1%)
+
+## Related Materials
+You can access my course notes and study materials through the GitHub repository below. I would be very happy if they are helpful to your learning. If you find them useful, feel free to give the repository a star⭐ to show your support.
+
+{% if site.data.repositories.course_repo %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.course_repo %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
 
 
