@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: I have been selected for the **2024 International Organization Summer Study Program of Southeast University**. During this program, I will visit Geneva and Rome to gain in-depth insights into international organizations such as the WTO, WIPO, ILO and so on. 🎉🎉🎉
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
@@ -31,3 +31,12 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/news/WBG.jpg" title="Yukun Tian at World Bank Group" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>

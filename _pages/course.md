@@ -18,7 +18,7 @@ nav_order: 6
 
 *Data Structure (Billingual): 100 / 100 ( Top 1 )*
 
-*Operating System (English): 97 / 100*
+*Operating System (English): 97 / 100 (Top 1 %)*
 
 *Programming & Algorithmic Language i (Billingual): 93 / 100*
 
