@@ -31,6 +31,14 @@
       "endDate": "Now",
       "summary": "I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁).",
       "highlights": ["RoboMaster"]
+    },
+    {
+      "name": "NAIE department, Huawei Nanjing Research & Development Center",
+      "position": "AI Engineer & Operator dev(Intern)",
+      "startDate": "2024-07",
+      "endDate": "2024-09",
+      "summary": " I work in the AI Model and Training Service Group and mainly focus on operators dev for Ascend and CANN.",
+      "highlights": ["CANN","Parallel Programming","HPC"]
     }
   ],
   "volunteer": [
