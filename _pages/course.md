@@ -28,6 +28,9 @@ nav_order: 6
 
 *Linear Algebra: 98 / 100 ( Top 1% )*
 
+
+*PS: Top 1 and Top 1% represents my performance in this course among all students from different majors who took the course.*
+
 ---
 
 ## Related Materials
