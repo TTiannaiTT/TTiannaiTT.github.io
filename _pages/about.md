@@ -12,7 +12,7 @@ profile:
     <p>Southeast University,</p>
     <p>Nanjing, China.</p>
 
-subtitle: <a href='https://aiia.seu.edu.cn/'>Affiliations</a>. Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications, Ministry of Education, China (Southeast University)
+subtitle: <a href='https://aiia.seu.edu.cn/'>Affiliations</a>： Key Laboratory of New Generation Artificial Intelligence Technology&Its Interdisciplinary Applications, Ministry of Education, China (Southeast University)
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

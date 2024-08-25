@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 ## Academic Performance
+### Overview
+GPA： 3.84 / 4.0 (currently)
+
+### Representative Courses:
+
 
 *Machine Learning (Billingual): 97 / 100 ( Top 1 )*
 
