@@ -12,24 +12,18 @@ GPA： 3.84 / 4.0 (currently)
 
 ### Representative Courses:
 
-| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       |    center 1    |       right 1 |
-| Left 2       |    center 2    |       right 2 |
-| Left 3       |    center 3    |       right 3 |
-
-Title of Courses | Grade
----------------- | -----
+| Title of Courses | Grade |
+| :--------------- | :----- |
 | *Machine Learning (Billingual)* | *97 / 100 ( Top 1 )* |
-*Pattern Recognition (English)* | *90 / 100*
-*Optimization Method* | *91 / 100*
-*Introduction to Artificial Intelligence (Billingual)* | *98 / 100 ( Top 1 )*
-*Data Structure (Billingual)* | *100 / 100 ( Top 1 )*
-*Operating System (English)* | *97 / 100 (Top 1 %)*
-*Programming & Algorithmic Language i (Billingual)* | *93 / 100*
-*Programming & Algorithmic Language ii (Billingual)* | *95 / 100*
-*Discrete Mathematics (Billingual)* | *94 /100*
-*Linear Algebra* | *98 / 100 ( Top 1% )*
+|*Pattern Recognition (English)* | *90 / 100*|
+|*Optimization Method* | *91 / 100*|
+|*Introduction to Artificial Intelligence (Billingual)* | *98 / 100 ( Top 1 )*|
+|*Data Structure (Billingual)* | *100 / 100 ( Top 1 )*|
+|*Operating System (English)* | *97 / 100 (Top 1 %)*|
+|*Programming & Algorithmic Language i (Billingual)* | *93 / 100*|
+|*Programming & Algorithmic Language ii (Billingual)* | *95 / 100*|
+|*Discrete Mathematics (Billingual)* | *94 /100*|
+|*Linear Algebra* | *98 / 100 ( Top 1% )*|
 
 
 *PS: Top 1 and Top 1% represents my performance in this course among all students from different majors who took the course.*
