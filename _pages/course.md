@@ -11,9 +11,16 @@ nav_order: 6
 GPA： 3.84 / 4.0 (currently)
 
 ### Representative Courses:
+
+| Left aligned | Center aligned | Right aligned |
+| :----------- | :------------: | ------------: |
+| Left 1       |    center 1    |       right 1 |
+| Left 2       |    center 2    |       right 2 |
+| Left 3       |    center 3    |       right 3 |
+
 Title of Courses | Grade
 ---------------- | -----
-*Machine Learning (Billingual)* | *97 / 100 ( Top 1 )*
+| *Machine Learning (Billingual)* | *97 / 100 ( Top 1 )* |
 *Pattern Recognition (English)* | *90 / 100*
 *Optimization Method* | *91 / 100*
 *Introduction to Artificial Intelligence (Billingual)* | *98 / 100 ( Top 1 )*
