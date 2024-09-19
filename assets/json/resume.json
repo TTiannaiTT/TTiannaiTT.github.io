@@ -5,7 +5,7 @@
     "image": "",
     "email": "213221787@seu.edu.cn",
     "url": "https://ttiannaitt.github.io",
-    "summary": "New Researcher in Scientific Community | Hands-on Enthusiast | Robotics Dev | IEEE/CCF Student Member |ACGN Lover | Amateur Photographer",
+    "summary": "New Researcher in Scientific Community | Hands-on Enthusiast | Robotics Dev | IEEE/CCF Student Member | ACGN Lover | Amateur Photographer",
     "location": {
       "address": "",
       "postalCode": "510000",
@@ -34,10 +34,10 @@
     },
     {
       "name": "NAIE department, Huawei Nanjing Research & Development Center",
-      "position": "AI Engineer & Operator dev(Intern)",
+      "position": "AI Engineer & Operator dev (Intern)",
       "startDate": "2024-07",
       "endDate": "2024-09",
-      "summary": " I work in the AI Model and Training Service Group and mainly focus on operators dev for Ascend and CANN.",
+      "summary": " I worked in the AI Model and Training Service Group where I mainly focused on operators dev for Ascend and CANN.",
       "highlights": ["CANN","Parallel Programming","HPC"]
     }
   ],

@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 ## Academic Performance
+---
 ### Overview
 GPA： 3.84 / 4.0 (currently)
 
@@ -28,9 +29,10 @@ GPA： 3.84 / 4.0 (currently)
 
 *PS: Top 1 and Top 1% represents my performance in this course among all students from different majors who took the course.*
 
----
+
 
 ## Related Materials
+---
 You can access my course notes and study materials through the GitHub repository below. I would be very happy if they are helpful to your learning. If you find them useful, feel free to give the repository a star⭐ to show your support.
 
 {% if site.data.repositories.course_repo %}
