@@ -21,17 +21,8 @@ social: true # includes social icons at the bottom of the page
 
 ***About me***
 
-- 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
 
-- 🔭 I’m now focusing on computer vision and machine learning mainly on event-based vision and multi-modal fusion. (fighting with ddl /(ㄒoㄒ)/~~)  
-
-- 🌱 I am now leading the R&D of my school Robot Team 3SE. (Mainly on vision tasks 👁)  
-
-- ⚡ Hobbies: taking photos, playing badminton, reading...  
-
-- 💬 Feel free to contact me!  
-
--  ✨ On this website you can find *part* of my engineering and research work, but I will update it as soon as possible! ✨
+I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic focus centers on Artificial Intelligence and Machine Learning, with a specialization in computer vision and multi-modal learning. In addition to my core research areas, I have a strong interest in Robotics. Beyond my academic pursuits, I am passionate about coding and take great satisfaction in seeing the tangible results of my development efforts.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
