@@ -19,11 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-***Hi there 👋***
-
-***This is Yukun Tian!***
-
-***It's a pleasure to meet you!***  
+***About me***
 
 - 👯 I am now studying at the Southeast University and my major is Artificial Intelligence. (I really love it!😊)  
 
