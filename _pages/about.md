@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### *About me*
+### About me
 
 
 I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic focus centers on **Artificial Intelligence and Machine Learning**, with a specialization in **computer vision and multi-modal learning**. In addition to my core research areas, I have a strong interest in **Robotics**. Beyond my academic pursuits, I am passionate about coding and take great satisfaction in seeing the tangible results of my development efforts!
