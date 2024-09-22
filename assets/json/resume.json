@@ -127,22 +127,13 @@
       "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Example",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "publications": [
     {
-      "name": "Example",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning",
+      "publisher": "Arxv",
+      "releaseDate": "2024-09",
+      "url": "https://arxiv.org/abs/2409.11813",
+      "summary": "More information please refer to Publication page."
     }
   ],
   "skills": [
@@ -152,8 +143,9 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python / Pytorch",
-        "C++ / OpenCV",
-        "Matlab"
+        "C / C++",
+        "AscendC & CCE",
+        "HTML / CSS"
       ]
     },
     {
@@ -181,12 +173,12 @@
   ],
   "interests": [
     {
-      "name": "Computer Vision & Image Process",
+      "name": "Computer Vision &  Machine Learning",
       "icon": "fa-solid fa-latop",
       "keywords": [
         "Event-based Learning",
-        "Multi-modal Fusion",
-        "Machine Recognition",
+        "Multi-modal Learning",
+        "Robotics",
         "Generative AI"
       ]
     },
@@ -216,7 +208,7 @@
     {
       "name": "Event Information-Guided Multimodal Fusion Video Camouflage Object Detection Method",
       "summary": "As the leading researcher, I am responsible for the overall project development and technical solution design. I have already submitted a paper as the first author to NeurIPS 2024 (CCFA).",
-      "highlights": ["Event-based Learning","Ministry of Education Key Laboratory for Young Scholars Open Project"],
+      "highlights": ["Event-based Learning","Ministry of Education Key Laboratory Open Project for Young Scholars"],
       "startDate": "2024-04-01",
       "endDate": "2026-04-01",
       "url": ""
@@ -224,7 +216,7 @@
     {
       "name": "Design of an Autonomous Decision-Making Navigation and Precision Strike Robot Based on Laser SLAM and Machine Vision",
       "summary": "As a core team member, I am responsible for robot motion control, embedded development, and part of the computer vision algorithm development. This project received an excellent rating during the conclusion acceptance defense.",
-      "highlights": ["Robotics","Machine Vision","National College Student Innovation and Entrepreneurship Training Project"],
+      "highlights": ["Robotics","Machine Vision","National Student Research Training Project"],
       "startDate": "2022-10-01",
       "endDate": "2024-05-01",
       "url": ""
@@ -232,7 +224,7 @@
     {
       "name": "High-Performance Heterogeneous Collaborative Computing System for Mobile CPUs and GPUs for Complex Deep Neural Networks",
       "summary": "As the primary responsible researcher, I am in charge of the overall technical solution design and algorithm development. We are planning to submit our work to MobiCom (CCFA) in August.",
-      "highlights": ["Heterogeneous Computing","Mobile Computing","Jiangsu Province College Student Innovation and Entrepreneurship Training Project"],
+      "highlights": ["Heterogeneous Computing","Mobile Computing","Student Research Training Project of Jiangsu Province"],
       "startDate": "2024-06-01",
       "endDate": "2025-10-01",
       "url": ""
@@ -240,7 +232,7 @@
     {
       "name": "Design and Application of Motion Target Identification and Prediction Models for Low-Latency Scenarios",
       "summary": "As a core team member, I am responsible for the development of computer vision algorithms, model training and fine-tuning, and low-latency deployment on the robots.",
-      "highlights": ["Computer Vision","Robotics","Jiangsu Province College Student Innovation and Entrepreneurship Training Project"],
+      "highlights": ["Computer Vision","Robotics","Student Research Training Project of Jiangsu Province"],
       "startDate": "2024-06-01",
       "endDate": "2025-06-01",
       "url": ""
