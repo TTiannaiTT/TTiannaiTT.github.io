@@ -22,14 +22,14 @@
       "startDate": "2022-09-01",
       "endDate": "Now",
       "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications and Jiangsu Provincial Key Laboratory of Network and Information Security, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
-      "highlights": ["Event-based Learning","Multi-modal Fusion", "Heterogeneous Computing"]
+      "highlights": ["Event-based Learning","Multi-modal Learning", "Accelerated Computing"]
     },
     {
       "name": "3SE Robot Team, Southeast University",
       "position": "Leader of Computer Vision Group",
       "startDate": "2023-09-01",
-      "endDate": "Now",
-      "summary": "I am now leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁).",
+      "endDate": "2024-8-11",
+      "summary": "I am leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁).",
       "highlights": ["RoboMaster"]
     },
     {
@@ -130,7 +130,7 @@
   "publications": [
     {
       "name": "EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning",
-      "publisher": "Arxv",
+      "publisher": "Arxiv",
       "releaseDate": "2024-09",
       "url": "https://arxiv.org/abs/2409.11813",
       "summary": "More information please refer to Publication page."
