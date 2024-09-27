@@ -76,6 +76,26 @@
       "courses": ["GPA 3.85 / 4.0, 90.59 / 100 (Currently)"]
     }
   ],
+  "honors": [
+    {
+      "name": "National Scholarship",
+      "date": "2024-09",
+      "issuer": "Ministry of Education of the People's Republic of China",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Outstanding Student",
+      "date": "2024-09",
+      "issuer": "Huawei Public Development Department",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "President’s Scholarship",
+      "date": "2023-09",
+      "issuer": "Southeast University",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
   "awards": [
     {
       "title": "2023 13th China Educational Robot Competition Regular Season & Challenge (As Team Captain)",
