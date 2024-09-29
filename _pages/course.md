@@ -9,7 +9,8 @@ nav_order: 6
 ## Academic Performance
 ---
 ### Overview
-GPA： 3.84 / 4.0 (currently)
+GPA： 3.85 / 4.0 (currently)  
+Average Score: 90.59 / 100 (currently)
 
 ### Representative Courses:
 
