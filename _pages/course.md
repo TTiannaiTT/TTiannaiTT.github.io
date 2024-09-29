@@ -11,6 +11,7 @@ nav_order: 6
 ### Overview
 GPA： 3.85 / 4.0 (currently)  
 Average Score: 90.59 / 100 (currently)
+<br/>
 
 ### Representative Courses:
 
@@ -29,8 +30,7 @@ Average Score: 90.59 / 100 (currently)
 
 
 *PS: Top 1 and Top 1% represents my performance in this course among all students from different majors who took the course.*
-
-
+<br/>
 
 ## Related Materials
 ---
