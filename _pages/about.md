@@ -24,6 +24,16 @@ social: true # includes social icons at the bottom of the page
 
 I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic focus centers on **Artificial Intelligence and Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. In addition to my core research areas, I have a strong interest in **Robotics and Accelerated Computing**. Beyond my academic pursuits, I am passionate about coding and take great satisfaction in seeing the tangible results of my development efforts!
 
+
+### Research Goal
+My long-term research goal and dream are to build a machine that can continuously learn from experiences, knowledge, and environment, and then apply this knowledge to address real-world challenges. (Maybe like *J.A.R.V.I.S.* in *Iron Man*)   
+Key features of this machine would include:
++  Multimodal understanding and perception; 
++  Real-time, low-latency responses;
++  Embodied intelligence, capable of decision-making, planning, and action.  
+
+Currently, I am at the beginning of my research journey, with primary focuses on computer vision, multimodal learning, accelerated computing, and robotics —aimed at addressing the challenges of building such a machine.
+
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
