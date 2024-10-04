@@ -26,7 +26,7 @@ I am an undergraduate student at Southeast University, under the supervision of 
 
 
 ### Research Goal
-My long-term research goal and dream are to build a machine that can continuously learn from experiences, knowledge, and environment, and then apply this knowledge to address real-world challenges. (Maybe like *J.A.R.V.I.S.* in *Iron Man*)   
+My long-term research goal and dream are to build a machine that can **continuously learn from experiences, knowledge, and environment, and then apply this knowledge to address real-world challenges.** (Maybe like *J.A.R.V.I.S.* in *Iron Man*)   
 Key features of this machine would include:
 +  Multimodal understanding and perception; 
 +  Real-time, low-latency responses;
