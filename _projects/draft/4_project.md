@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
-img: assets\img\project\moviemate\logo.png
+img:
 importance: 3
 category: fun
 ---

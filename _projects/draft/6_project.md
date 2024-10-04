@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img: assets\img\project\moviemate\logo.png
-importance: 3
+title: project 6
+description: a project with no image
+img:
+importance: 4
 category: fun
 ---
 
