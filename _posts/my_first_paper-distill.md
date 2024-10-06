@@ -2,7 +2,7 @@
 layout: distill
 title: My First Paper
 description: The story about my first academic paper.
-tags: distill formatting
+tags: academic formatting
 giscus_comments: true
 date: 2024-08-24
 featured: true

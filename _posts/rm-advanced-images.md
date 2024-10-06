@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My RM Years
-date: 2024-01-27 11:46:00
+date: 2024-09-30 11:46:00
 description: This is my journey of RoboMaster2023/2024/2025 (3 seasons).
-tags: formatting images
+tags: academic images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
