@@ -2,10 +2,11 @@
 layout: distill
 title: My First Paper
 description: The story about my first academic paper.
-tags: academic formatting
+tags: academic
 giscus_comments: true
 date: 2024-08-24
 featured: true
+thumbnail: assets/img/publication_preview/eventaug.jpg
 
 authors:
   - name: Yukun Tian
@@ -53,6 +54,8 @@ _styles: >
 ---
 
 ## Introduction
+This blog is a review of my first academic paper, you can refer it [here](https://arxiv.org/abs/2409.11813).  
+I will finish this as soon as possible. (please ignore content bellow, they are from example blogs.)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
