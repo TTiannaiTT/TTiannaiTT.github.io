@@ -2,7 +2,8 @@
 layout: distill
 title: My First Paper
 description: The story about my first academic paper.
-tags: academic
+tags: Paper
+categories: Academic
 giscus_comments: true
 date: 2024-08-24
 featured: true
@@ -27,9 +28,9 @@ toc:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: Citations
-  - name: Footnotes
-  - name: Code Blocks
+  - name: Timeline
+  - name: NeurIPS 2024
+  - name: AAAI 2025
   - name: Interactive Plots
   - name: Layouts
   - name: Other Typography?
@@ -54,7 +55,7 @@ _styles: >
 ---
 
 ## Introduction
-This blog is a review of my first academic paper, you can refer it [here](https://arxiv.org/abs/2409.11813).  
+This blog is a review of my first academic paper, you can click [here](https://arxiv.org/abs/2409.11813) for further information.  
 I will finish this as soon as possible. (please ignore content bellow, they are from example blogs.)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,6 +79,14 @@ $$
 Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
 
 ---
+
+## Timeline
++ 2024.1
++ 2024.3
++ 2024.5
+
+## NeurIPS 2024
+## AAAI 2025
 
 ## Citations
 

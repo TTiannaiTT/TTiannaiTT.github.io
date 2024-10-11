@@ -3,8 +3,8 @@ layout: post
 title: Useful Blogs & Articles for Me (Maybe also you)
 date: 2024-09-30 21:01:00
 description: Some useful blogs for me, mainly in academic fields.
-tags: academic 
-categories: sample-posts
+tags: blogrecommendation 
+categories: Academic
 thumbnail: assets/img/9.jpg
 ---
 
