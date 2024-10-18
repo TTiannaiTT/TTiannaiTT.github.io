@@ -10,6 +10,7 @@ thumbnail: assets/img/9.jpg
 
 ## Huggingface
 1. [Introduction](https://huggingface.co/blog/noob_intro_transformers)  
+2. [Download Datasets&Models Faster in China](https://hf-mirror.com/)
 
 ## Kaggle
 1. [Undergraduate->GM](https://www.cvmart.net/community/detail/1499)  
