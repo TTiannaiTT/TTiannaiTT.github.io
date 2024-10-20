@@ -93,6 +93,8 @@ layout: default
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
+                {% when 'honors' %}
+                  {% include resume/honors.liquid %}  
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
@@ -101,8 +103,6 @@ layout: default
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
-                {% when 'honors' %}
-                  {% include resume/honors.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
