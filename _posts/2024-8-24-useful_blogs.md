@@ -10,13 +10,13 @@ thumbnail: assets/img/9.jpg
 
 ## Huggingface
 1. [Introduction](https://huggingface.co/blog/noob_intro_transformers)  
-2. [Download Datasets & Models Faster in China](https://hf-mirror.com/)  
+2. [Download Datasets & Models Faster in China Mainland](https://hf-mirror.com/)  
 
 ## Kaggle
 1. [Undergraduate->GM](https://www.cvmart.net/community/detail/1499)  
 2. [One Year of Consistent Kaggling: What Did It Teach Me?](https://towardsdatascience.com/1-year-of-continuous-kaggling-what-did-it-taught-me-d267c222cfa3)  
 
 ## Academic
-1. [CS Phd Application (CMU)](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)  
+1. [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)  
 
 
