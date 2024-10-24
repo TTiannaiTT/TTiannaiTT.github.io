@@ -5,7 +5,7 @@
     "image": "",
     "email": "213221787@seu.edu.cn",
     "url": "https://ttiannaitt.github.io",
-    "summary": "New Researcher in Scientific Community | Hands-on Enthusiast | Robotics Dev | IEEE/CCF Student Member | ACGN Lover | Amateur Photographer",
+    "summary": "New Comer in Scientific Community | Hands-on Enthusiast | Robotics Dev | IEEE/CCF Student Member | ACGN Lover | Amateur Photographer",
     "location": {
       "address": "",
       "postalCode": "510000",
@@ -21,15 +21,15 @@
       "url": "https://cs.seu.edu.cn/main.htm",
       "startDate": "2022-09-01",
       "endDate": "Now",
-      "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications and Jiangsu Provincial Key Laboratory of Network and Information Security, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
-      "highlights": ["Event-based Learning","Multi-modal Learning", "Accelerated Computing"]
+      "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
+      "highlights": ["Computer Vision","Multi-modal Learning", "Accelerated Computing"]
     },
     {
       "name": "3SE Robot Team (RoboMaster), Southeast University",
       "position": "Leader of Computer Vision Group",
       "startDate": "2023-09-01",
       "endDate": "2024-8-11",
-      "summary": "I am leading the R&D of my school's Robot Team. (Mainly on vision tasks 👁).",
+      "summary": "I led the R&D of my school's Robot Team in Season 2024. (Mainly on vision tasks 👁).",
       "highlights": ["RoboMaster (DJI)"]
     },
     {
@@ -122,7 +122,7 @@
   ],
   "honors": [
     {
-      "name": "Star of Innovation (to top 10 undergraduates in this field)",
+      "name": "Star of Innovation (for top 10 undergraduates)",
       "date": "2024-10",
       "issuer": "Southeast University",
       "icon": "fa-solid fa-clipboard-check"
@@ -221,13 +221,13 @@
     {
       "name": "Professor Ruiting Zhou",
       "icon": "fa-solid fa-tag",
-      "reference": "Professor in the Jiangsu Provincial Key Laboratory of Network and Information Security, one of my advisors in the Southeast University."
+      "reference": "Professor in the School of Computer Science, Southeast University, one of my advisors in the Southeast University."
     }
   ],
   "projects": [
     {
       "name": "Event Information-Guided Multimodal Fusion Video Camouflage Object Detection Method",
-      "summary": "As the leading researcher, I am responsible for the overall project development and technical solution design. I have already submitted a paper as the first author to NeurIPS 2024 (CCFA).",
+      "summary": "As the leading researcher, I am responsible for the overall project development and technical solution design. I have already submitted a paper as the first author to AAAI 2025.",
       "highlights": ["Event-based Learning","Ministry of Education Key Laboratory Open Project for Young Scholars"],
       "startDate": "2024-04-01",
       "endDate": "2026-04-01",
