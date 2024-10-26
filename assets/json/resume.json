@@ -16,10 +16,10 @@
   },
   "work": [
     {
-      "name": "School of Artificial Intelligence, Southeast University",
-      "position": "Undergraduate Student",
+      "name": "School of Computer Science, Southeast University",
+      "position": "Research Group Member",
       "url": "https://cs.seu.edu.cn/main.htm",
-      "startDate": "2022-09-01",
+      "startDate": "2023-10-01",
       "endDate": "Now",
       "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
       "highlights": ["Computer Vision","Multi-modal Learning", "Accelerated Computing"]
@@ -30,7 +30,7 @@
       "startDate": "2023-09-01",
       "endDate": "2024-8-11",
       "summary": "I led the R&D of my school's Robot Team in Season 2024. (Mainly on vision tasks 👁).",
-      "highlights": ["RoboMaster (DJI)"]
+      "highlights": ["RoboMaster Competition (Organized by DJI)"]
     },
     {
       "name": "NAIE department, Huawei Nanjing Research & Development Center",
@@ -68,7 +68,7 @@
       "institution": "Southeast University, China",
       "location": "Nanjing, China",
       "url": "https://www.seu.edu.cn/",
-      "area": "Artificial Intelligence",
+      "area": " Major in Artificial Intelligence",
       "studyType": "Undergraduate",
       "startDate": "2022-09-01",
       "endDate": "now",
@@ -84,6 +84,13 @@
       "url": "https://www.robomaster.com/",
       "summary": "As the vision task leader, I developed neural network-based object detection and tracking algorithms, ensuring accurate vision processing during competitions. Our team achieved the best results in school history."
     },
+    {
+      "title": "2024 RoboMaster University Championship, Hero Robot Combat Award",
+      "date": "2024-08-11",
+      "awarder": "National Second Prize",
+      "url": "https://www.robomaster.com/",
+      "summary": "Awarded for outstanding performance in the Hero robot combat category."
+    },    
     {
       "title": "2024 RoboMaster University Championship, Regional Competition",
       "date": "2024-06-05",
@@ -114,7 +121,7 @@
     },
     {
       "title": "2022 12th China Educational Robot Competition, Regular & Challenge Seasons (As Captain)",
-      "date": "2022-05-01",
+      "date": "2023-05-01",
       "awarder": "National Special Prize & National First Prize (Champion)",
       "url": "http://www.ercc.org.cn/",
       "summary": "As captain, I led the team to a national special prize by directing the development of motion control and path planning algorithms, guiding the team to victory."
