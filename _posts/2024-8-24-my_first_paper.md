@@ -56,7 +56,7 @@ _styles: >
 
 ## Introduction
 This blog is a review of my first academic paper, you can click [here](https://arxiv.org/abs/2409.11813) for further information.  
-I will finish this as soon as possible. (please ignore content bellow, they are from example blogs.)
+**I will finish this as soon as possible. (please ignore content bellow, they are from example blogs.)**
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
