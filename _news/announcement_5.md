@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as the Star of Innovation by the Southeast University. **This award is given to the top 10 undergraduates excelling in scientific and innovative fields at my university.** 🎉🎉🎉
+I was selected as the Star of Innovation and gave a talk about my R&D experience at the Southeast University. **This award is given to the top 10 undergraduates excelling in scientific and innovative fields at my university.** 🎉🎉🎉
