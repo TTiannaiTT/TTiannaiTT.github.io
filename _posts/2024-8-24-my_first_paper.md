@@ -31,7 +31,7 @@ toc:
   - name: Timeline
   - name: NeurIPS 2024
   - name: AAAI 2025
-  - name: Interactive Plots
+  - name: Experience Summary
   - name: Layouts
   - name: Other Typography?
 
@@ -81,9 +81,13 @@ Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en
 ---
 
 ## Timeline
-+ 2024.1
-+ 2024.3
-+ 2024.5
++ 2024.1 Finding the idea.
++ 2024.2 Winter Vacation.
++ 2024.3 Start implementation
++ 2024.5 Submitted to NeurIPS 2024.
++ 2024.8 Withdrew and submitted to AAAI 2025, adding some important experiments.
++ 2024.10 Pass Round 1.
++ 2024.11 Round 2 Rebuttal.
 
 ## NeurIPS 2024
 ## AAAI 2025
