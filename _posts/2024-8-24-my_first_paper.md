@@ -91,6 +91,21 @@ Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en
 
 ## NeurIPS 2024
 ## AAAI 2025
+### Rebuttal 
+Experience is summarized bellow:
+#### Summary of Experience
+- **Clarify DDL/Writing Requirements/Communication Format**: Begin by ensuring a clear understanding of the deadline, specific writing requirements, and the means of communication.
+- **Summarize Reviewer Concerns**: For each reviewer, summarize the main points of their questions. Discuss with co-authors and formulate a strategy for responses.
+- **Practice and Review**: Writing rebuttals, like drafting a paper, improves with practice. Reviewing good examples will help refine your skills over time.
+
+#### Tips
+- **Addressing Issues Without Rebuttal-Supported Content**: If unable to submit certain materials (e.g., images), describe the experiment's results and conclusions, and promise to include them in the revised version.
+- **Consider Both Concerns and Strengths**: Don’t just focus on concerns; also note strengths. A point viewed as a concern by Reviewer A might be a strength for Reviewer B. Mention Reviewer B’s perspective to foster discussion.
+- **Direct and Sincere Responses**: Answer questions straightforwardly without excessive padding. Convince the reviewers of your sincerity and, if possible, supplement responses with additional experiments.
+- **Focus on Concerns Rather Than Advantages**: Emphasize addressing the reviewers' concerns rather than continually highlighting your method's strengths.
+- **Structure Responses Clearly**: Use bullet points and subpoints to maintain clarity. Short sentences and keywords help reviewers quickly grasp the key ideas, as they may not read every detail closely.
+- **Interpret Reviewer Intentions**: Try to understand the reviewers' underlying questions rather than taking comments literally or at face value.
+- **Be Concise**: With limited word count, use abbreviations where appropriate to keep the responses clear and efficient.
 
 ## Citations
 
