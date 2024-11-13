@@ -19,5 +19,6 @@ thumbnail: assets/img/9.jpg
 ## Academic
 1. [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)  
 2. [30 Recommended Paper from Ilya Sutskever](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) 
+3. [Lilian Weng's Blog](https://lilianweng.github.io/faq/)  
 
 
