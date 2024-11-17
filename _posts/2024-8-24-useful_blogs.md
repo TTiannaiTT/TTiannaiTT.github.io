@@ -19,7 +19,8 @@ thumbnail: assets/img/9.jpg
 ## AI
 1. [OpenAI Research](https://openai.com/news/research/?tags=research-publication)  
  1.1 [Learning to Reason with LLMs (Openai o1)](https://openai.com/index/learning-to-reason-with-llms/)  
- 1.2 [Hello GPT-4o](https://openai.com/index/hello-gpt-4o/)
+ 1.2 [Hello GPT-4o](https://openai.com/index/hello-gpt-4o/)  
+ 1.3 [GPT-4](https://openai.com/index/gpt-4-research/)
 
 2. [30 Recommended Paper from Ilya Sutskever](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)   
    supplementary materials: [The Lost Reading Items](https://tensorlabbet.com/2024/11/11/lost-reading-items/)
@@ -28,4 +29,6 @@ thumbnail: assets/img/9.jpg
 ## Education
 1. [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)  
 
+## Somthing Interesting
+1. [Fish Speech & Audio](https://github.com/fishaudio)
 
