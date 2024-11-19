@@ -272,7 +272,7 @@
     {
       "name": "Efficient OFA",
       "summary": "As one of the primary student researcher, I am in charge of the overall technical solution design and algorithm development. We are planning to submit our work to ATC 2025.",
-      "highlights": ["Distributed Machine Learning","Once for ALL"],
+      "highlights": ["Distributed Machine Learning","Once for ALL (One-shot NAS)","Device Deployment"],
       "startDate": "2024-09-01",
       "endDate": "now",
       "url": ""
