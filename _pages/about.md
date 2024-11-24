@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 ### About me
 
 
-I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic focus centers on **Artificial Intelligence and Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am deeply interested in **Robotics and Accelerated Computing**. Outside of my academic work, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
+I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic pursuits primarily focus on **Artificial Intelligence and Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am also deeply interested in **Robotics and Accelerated Computing (e.g., mlsys, parallel computing)**. Beyond academics, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
 
 
 
