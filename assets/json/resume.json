@@ -17,12 +17,12 @@
   "work": [
     {
       "name": "School of Computer Science, Southeast University",
-      "position": "Research Group Member",
+      "position": "Student Researcher",
       "url": "https://cs.seu.edu.cn/main.htm",
       "startDate": "2023-10-01",
       "endDate": "Now",
-      "summary": "I am now working in the Key Laboratory of New Generation Artificial Intelligence Technology & Its Interdisciplinary Applications, under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
-      "highlights": ["Computer Vision","Multi-modal Learning", "Accelerated Computing"]
+      "summary": "Under the supervise of Professor Hao Chen and Professor Ruiting Zhou.",
+      "highlights": ["Computer Vision","Multi-modal Learning", "Accelerated Computing(e.g, ML sys)"]
     },
     {
       "name": "3SE Robot Team (RoboMaster), Southeast University",
