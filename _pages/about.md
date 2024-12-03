@@ -37,7 +37,7 @@ Currently, I am at the beginning of my research journey, with primary focuses on
 
 *"Sight turned into insight; Seeing became understanding; Understanding led to action. All these gave rise to intelligence."*
 <div align="right">
-    ———*Fei-Fei Li*
+    ——<i>Fei-Fei Li</i>
 </div>
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
