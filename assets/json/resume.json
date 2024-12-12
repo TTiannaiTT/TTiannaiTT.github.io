@@ -73,7 +73,7 @@
       "startDate": "2022-09-01",
       "endDate": "now",
       "score": "GPA 3.85 / 4.0 (Currently)",
-      "courses": ["GPA 3.85 / 4.0, 90.59 / 100 (Currently)"]
+      "courses": ["GPA 3.85 / 4.0, 90.62 / 100 (Currently)"]
     }
   ],
   "awards": [
@@ -82,7 +82,7 @@
       "date": "2024-08-11",
       "awarder": "National First Prize (Best in school history)",
       "url": "https://www.robomaster.com/",
-      "summary": "As the vision task leader, I developed neural network-based object detection and tracking algorithms, ensuring accurate vision processing during competitions. Our team achieved the best results in school history."
+      "summary": "As the vision group leader, I developed neural network-based object detection and tracking algorithms, ensuring accurate vision processing during competitions. Our team achieved the best results in school history."
     },
     {
       "title": "2024 RoboMaster University Championship, Hero Robot Combat Award",
@@ -175,17 +175,16 @@
       "keywords": [
         "Python / Pytorch",
         "C / C++",
-        "AscendC & CCE",
-        "HTML / CSS"
+        "AscendC & CCE"
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Computer Vision",
-        "Machine Learning",
+        "Deep Learning",
         "Pattern Recognition"
       ]
     }
@@ -198,7 +197,7 @@
     },
     {
       "language": "English",
-      "fluency": "CET6: 603",
+      "fluency": "CET6: 603, have been to 7 countries, great oral and written skills",
       "icon": "fa-solid fa-thumbtack"
     }
   ],
@@ -248,7 +247,7 @@
     {
       "name": "Event Information-Guided Multimodal Fusion Video Camouflage Object Detection Method",
       "summary": "As the leading student researcher, I am responsible for the overall project development and technical solution design. I have already submitted a paper as the first author to AAAI 2025.",
-      "highlights": ["Event-based Learning","Ministry of Education Key Laboratory Open Project for Young Scholars"],
+      "highlights": ["Computer Vision (Event-based Vision)","Multi-modal Learning (Event-RGB)","Ministry of Education Key Laboratory Open Project for Young Scholars"],
       "startDate": "2024-04-01",
       "endDate": "2026-04-01",
       "url": ""
@@ -271,7 +270,7 @@
     },
     {
       "name": "Efficient OFA",
-      "summary": "As one of the primary student researcher, I am in charge of the overall technical solution design and algorithm development. We are planning to submit our work to ATC 2025.",
+      "summary": "As one of the primary student researcher, I am in charge of the overall technical solution design and algorithm development. We are planning to submit our work to ATC 2025 or ASPLOS 2025.",
       "highlights": ["Distributed Machine Learning","Once for ALL (One-shot NAS)","Device Deployment"],
       "startDate": "2024-09-01",
       "endDate": "now",
