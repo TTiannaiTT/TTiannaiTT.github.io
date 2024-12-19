@@ -5,7 +5,7 @@
     "image": "",
     "email": "213221787@seu.edu.cn",
     "url": "https://ttiannaitt.github.io",
-    "summary": "New Comer in Scientific Community | Hands-on Enthusiast | Robotics Dev | IEEE/CCF Student Member | ACGN Lover | Amateur Photographer",
+    "summary": "New Researcher in Community | Hands-on Enthusiast | Coding Dev | IEEE/CCF Student Member | ACGN Lover | Amateur Photographer",
     "location": {
       "address": "",
       "postalCode": "510000",
@@ -169,7 +169,7 @@
   ],
   "skills": [
     {
-      "name": "Programming",
+      "name": "Coding",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
@@ -184,6 +184,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Computer Vision",
+        "Multi-modal Learning",
         "Deep Learning",
         "Pattern Recognition"
       ]
@@ -217,8 +218,8 @@
       "icon": "fa-solid fa-latop",
       "keywords": [
         "Photograph",
-        "ACGN",
         "Reading",
+        "ACGN",
         "Travel"
       ]
     }
