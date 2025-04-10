@@ -21,19 +21,16 @@ social: true # includes social icons at the bottom of the page
 
 ### About me
 
-
-I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic pursuits primarily focus on **Artificial Intelligence and Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am also deeply interested in **Robotics and Accelerated Computing (e.g., mlsys, parallel computing)**. Beyond academics, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
-
-
+I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic pursuits primarily focus on **Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am also deeply interested in **Robotics and mlsys (both training and inference)**. Beyond academics, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
 
 ### Research Goal
-My long-term research goal and dream are to build a machine that can **continuously learn from experiences, knowledge, and environment, and then apply this knowledge to address real-world challenges.** (Maybe like *J.A.R.V.I.S.* in *Iron Man*)   
-Key features of this machine would include:
-+  Multimodal understanding and perception; 
+My long-term research goal is to build a machine that can **continuously learn from experiences, knowledge, and environment, and apply this knowledge to address real-world challenges.** (Like *J.A.R.V.I.S.* in *Iron Man*)   
+Key features and challenges of this machine would include:
++  Cross-domain multimodal understanding and perception; 
 +  Real-time, low-latency responses;
 +  Embodied intelligence, capable of decision-making, planning, and action.  
 
-Currently, I am at the beginning of my research journey, with primary focuses on computer vision, multimodal learning, accelerated computing and robotics —aimed at addressing the challenges of building such a machine.
+Currently, I am at the beginning of my research journey, with primary focuses the first two challenges of building such a machine. I really want to do two kinds of work: *(i) Project with high influence that is widely used in research and industry community; (ii) Project that focus on fundemantal or vital problems in an area.*
 
 *"Sight turned into insight; Seeing became understanding; Understanding led to action. All these gave rise to intelligence."*
 <div align="right">
