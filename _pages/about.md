@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ### About me
 
-I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic pursuits primarily focus on **Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am also deeply interested in **Robotics and mlsys (both training and inference)**. Beyond academics, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
+I am an undergraduate student at Southeast University, under the supervision of Professors Ruiting Zhou and Hao Chen. My academic pursuits primarily focus on **Machine Learning**, with a specialization in **Computer Vision and Multi-modal Learning**. Additionally, I am also deeply interested in **Robotics and MLSys (both training and inference)**. Beyond academics, I am passionate about coding and find great joy in seeing the practical outcomes of my development projects.
 
 ### Research Goal
 My long-term research goal is to build a machine that can **continuously learn from experiences, knowledge, and environment, and apply this knowledge to address real-world challenges.** (Like *J.A.R.V.I.S.* in *Iron Man*)   

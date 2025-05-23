@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Journeys & Horizons # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog page. Explore personal stories and insights here! (still under construction) # blog_description will be displayed in your blog page
+blog_name: Horizons # blog_name will be displayed in your blog page
+blog_description: Welcome to my blog page. (still under construction) # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
