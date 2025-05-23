@@ -155,7 +155,7 @@
   ],
   "publications": [
     {
-      "name": "EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning",
+      "name": "EvAug: Integrating Hierarchical and Adaptive Spatio-Temporal Augmentations into Event-Based Data by Mimicking Real-World Object Patterns",
       "publisher": "Under Review",
       "releaseDate": "2024-09",
       "url": "https://arxiv.org/abs/2409.11813",

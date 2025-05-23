@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to be selected as one of the 100 students to be included in the list of representative winners of the National Scholarship for 2023-2024, and to be reported by [*Peoples Daily*](https://www.peopleapp.com/column/30048969901-500006239679).
+I am honored to be selected as one of the 100 students to be included in the list of **representative winners of the National Scholarship** for 2023-2024, and to be reported by [Peoples Daily](https://www.peopleapp.com/column/30048969901-500006239679).
