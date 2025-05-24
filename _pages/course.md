@@ -2,20 +2,20 @@
 layout: page
 permalink: /course/
 title: Course
-description: Welcome to the Courses page of my personal website! On this page, I highlight the core courses from my undergraduate studies, reflecting my academic performance and interests.
+description: Welcome to the Courses page of my personal website! On this page, I highlight the core courses from my undergraduate studies.
 nav: true
 nav_order: 6
 ---
 ## Academic Performance
 ---
 ### Overview
-GPA： 3.85 / 4.0 (currently)  
-Average Score: 90.59 / 100 (currently)
+GPA： 3.87 / 4.0 (currently)  
+Average Score: 91.38 / 100 (currently)
 <br/>
 
 ### Representative Courses:
 
-| Title of Courses | Grade |
+| Title| Grade |
 | :--------------- | :----- |
 | *Machine Learning (Billingual)* | *97 / 100 ( Top 1 )* |
 |*Pattern Recognition (English)* | *90 / 100*|
