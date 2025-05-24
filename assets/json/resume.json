@@ -160,6 +160,18 @@
       "releaseDate": "2024-09",
       "url": "https://arxiv.org/abs/2409.11813",
       "summary": "For more information, please refer to Publication page."
+    },
+    {
+      "name": "PipeNN: Energy-Efficient and Predictor-Free CPU-GPU Pipeline for Mobile DAG-DNN Inference",
+      "publisher": "Under Review",
+      "releaseDate": "2025-03",
+      "summary": "For more information, please refer to Publication page."
+    },
+    {
+      "name": "SAPE: Efficient End-to-End Dense Representations for Event-based Learning via Spatio-Temporal Adaptive Perception in Multi-scale Temporal Context",
+      "publisher": "Under Review",
+      "releaseDate": "2025-03",
+      "summary": "For more information, please refer to Publication page."
     }
   ],
   "skills": [
