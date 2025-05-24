@@ -1,7 +1,7 @@
 ---
 ---
-
-@misc{evaug,
+@comment{完整资料：
+misc{evaug,
       abbr={arxiv},
       title={EvAug: Integrating Hierarchical and Adaptive Spatio-Temporal Augmentations into Event-Based Data by Mimicking Real-World Object Patterns}, 
       author={Yukun Tian and Yongjian Deng and Wei You and Hao Chen},
@@ -14,6 +14,30 @@
       url={https://arxiv.org/abs/2409.11813}, 
       preview={eventaug.jpg},
       abstract={The event camera has demonstrated significant success across a wide range of areas due to its low time latency and high dynamic range. However, the community faces challenges such as data deficiency and limited diversity, often resulting in over-fitting and inadequate feature learning. Notably, the exploration of data augmentation techniques in the event community remains scarce. This work aims to address this gap by introducing a systematic augmentation scheme named EventAug to enrich spatial-temporal diversity. In particular, we first propose Multi-scale Temporal Integration (MSTI) to diversify the motion speed of objects, then introduce Spatial-salient Event Mask (SSEM) and Temporal-salient Event Mask (TSEM) to enrich object variants. Our EventAug can facilitate models learning with richer motion patterns, object variants and local spatio-temporal relations, thus improving model robustness to varied moving speeds, occlusions, and action disruptions. Experiment results show that our augmentation method consistently yields significant improvements across different tasks and backbones (e.g., a 4.87% accuracy gain on DVS128 Gesture). Our code will be publicly available for this community.},
+      selected={true}
+}
+}
+@misc{evaug,
+      abbr={under review},
+      title={EvAug: Integrating Hierarchical and Adaptive Spatio-Temporal Augmentations into Event-Based Data by Mimicking Real-World Object Patterns}, 
+      author={Yukun Tian and Yongjian Deng and Wei You and Hao Chen},
+      year={2024},
+      preview={eventaug.jpg},
+      abstract={Event cameras have shown great potential in various applications due to their low
+latency and high dynamic range. However, challenges such as data scarcity and
+limited diversity hinder model generalization, and research on event-specific data
+augmentation remains limited. This work aims to address this gap by introducing a
+systematic augmentation scheme named EvAug, which is inspired by real-world
+object patterns. In particular, we first propose Multi-scale Temporal Integration
+(MSTI) to diversify the motion speed, then introduce Spatial-Salient Event Mask
+(SSEM) and Temporal-Salient Event Mask (TSEM) to enrich object variants by
+emulating occlusion and interruption. Our EvAug can facilitate models learning
+with richer motion patterns, object variants and local spatio-temporal relations,
+thus improving model robustness and generalization capabilities. Experiment
+results demonstrate that EvAug consistently yields significant improvements across
+different tasks, representations, backbones and in multi-modal scenarios (e.g.,
+4.87% accuracy gain on gesture recognition, 12.03% gain on object classification
+and 1.8% mIOU gain on semantic segmentation).},
       selected={true}
 }
 
@@ -30,8 +54,6 @@ Fang Dong and
 Mengyang Liu and
 Wentao Liu},
       year={2025},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
       preview={pipenn.jpg},
       selected={true}
 }
@@ -41,8 +63,6 @@ Wentao Liu},
       title={SAPE: Efficient End-to-End Dense Representations for Event-based Learning via Spatio-Temporal Adaptive Perception in Multi-scale Temporal Context}, 
       author={Yukun Tian and Yongjian Deng and Wei You and Hao Chen},
       year={2025},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
       preview={sape.jpg},
       selected={true}
 }
