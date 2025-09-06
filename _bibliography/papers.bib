@@ -55,6 +55,25 @@ Mengyang Liu and
 Wentao Liu},
       year={2025},
       preview={pipenn.jpg},
+      abstract={The deployment of DAG-based deep neural networks (DNNs)
+on mobile devices has become increasingly common, enabling advanced AI applications such as real-time object
+detection and face recognition. However, running these com-
+plex models on resource-constrained mobile hardware presents
+significant challenges, particularly in optimizing inference
+latency and energy consumption. Existing frameworks either limit execution to a single processor or fail to efficiently
+utilize heterogeneous computing resources, often overlooking energy efficiency in DAG-based DNNs. To address these
+issues, we propose PipeNN, the first energy-efficient and
+predictor-free heterogeneous inference framework for mobile devices. Unlike conventional intra-operator parallelism,
+PipeNN adopts subgraph-level pipeline parallelism, enabling
+fine-grained task partitioning without extensive profiling
+overhead. It introduces a custom execution control mechanism, lightweight memory management, and optimized inter-
+processor data transfer to achieve efficient CPU-GPU execution while minimizing storage and synchronization overhead.
+Additionally, a coarse-to-fine energy-latency optimization
+algorithm ensures optimal DAG partitioning, balancing inference speed and energy consumption. We implement PipeNN
+on various platforms and evaluate it on multiple DNN models
+and mobile devices. Compared to state-of-the-art inference
+framework, PipeNN achieves up to 3x speedup and reduces
+energy consumption by 59.7% on DAG DNN inference.},
       selected={true}
 }
 
@@ -64,5 +83,10 @@ Wentao Liu},
       author={Yukun Tian and Yongjian Deng and Wei You and Hao Chen},
       year={2025},
       preview={sape.jpg},
+      abstract={ Event cameras offer unique advantages, such as high dynamic range and low latency. However, they produce sparse, non-uniform 4-D event streams of arbitrary length, which are inherently incompatible with modern deep neural networks (DNNs). Existing methods convert event streams into dense representations using handcrafted rules or coarse learnable transformation, leading to significant spatio-temporal information loss.  
+In this work, we bridge this long-standing gap between event data and off-the-shelf DNNs by introducing a powerful end-to-end representation method, termed Spatio-Temporal Adaptive Perception Event (SAPE).
+Our method features attention-driven spatio-temporal learnable kernels and group polarity interaction modules, leveraging intrinsic event properties (e.g., sparsity, polarity) to extracting task-relevant spatio-temporal information adaptively.
+Additionally, we introduce a parallel multi-branch representation learning architecture to capture multi-scale features in diverse temporal contexts efficiently by processing multi-scale features in parallel.
+The proposed method demonstrates exceptional generalization and robustness across various tasks, backbones and datasets. Experiments on object recognition and semantic segmentation achieve state-of-the-art performance. Furthermore, our method exhibits remarkable adaptation ability by achieving competitive results with only 0.11M (0.53%) of parameters fine-tuned.},
       selected={true}
 }
