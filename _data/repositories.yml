@@ -1,10 +1,8 @@
 github_users:
-  - torvalds
+  - lllyasviel
   - TTiannaiTT
 
 github_repos:
-  - TTiannaiTT/Course
-  - TTiannaiTT/MovieMate
   - TTiannaiTT/VisionMaster2024-v1.0
   - TTiannaiTT/Question-Matching-on-Qianyan
 
