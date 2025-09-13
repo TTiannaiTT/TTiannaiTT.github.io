@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Undergraduate # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐈‍⬛ # ⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌒 # 🌎🐈‍⬛⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://TTiannaiTT.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -110,7 +110,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  For a prompt and efficient way to reach out to me, I highly recommend contacting me via email.
+  For a prompt and efficient way to reach me, I highly recommend contacting me via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

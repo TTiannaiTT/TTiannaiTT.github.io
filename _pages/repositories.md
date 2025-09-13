@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Welcome to the GitHub Stats page of my personal website! This page includes the researcher I admire, Lvmin Zhang, and my own GitHub account.
+description: Welcome to the GitHub Stats page of my personal website. This page includes the researcher I admire, Lvmin Zhang, and my own GitHub account. There is still a LOOOONG way to go!
 nav: true
 nav_order: 4
 ---
