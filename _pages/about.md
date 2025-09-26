@@ -29,7 +29,7 @@ Key features and challenges of this machine would include:
 +  Real-time, low-latency responses;
 +  Embodied intelligence, capable of decision-making, planning, and action.  
 
-Currently, I am at the beginning of my research journey, with primary focuses on the first two challenges. With recent exciting advances in LLM and RL, I feel I'm never so close to my goal.  
+Currently, I am at the beginning of my research journey, with primary focus on the first two challenges. With recent groundbreaking advances in LLM and RL, it's really exciting to be so close to my dream.  
 I really want to do two kinds of work: *(i) Projects that are widely used in research and industry community; (ii) Projects that focus on solving fundamental or vital problems in an area.*
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
