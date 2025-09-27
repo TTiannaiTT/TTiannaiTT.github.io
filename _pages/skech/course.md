@@ -3,7 +3,7 @@ layout: page
 permalink: /course/
 title: Course
 description: Welcome to the Courses page of my personal website! On this page, I highlight the core courses from my undergraduate studies.
-nav: true
+nav: false
 nav_order: 6
 ---
 ## Academic Performance

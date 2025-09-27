@@ -9,9 +9,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Up: My Headshot.</p>
-    <p>Down: Me working on Robots.</p>
+    <p>Down: Me working on robots.</p>
 
-subtitle: <a href='https://aiia.seu.edu.cn/'>Affiliations</a>：School of Artificial Intelligence, Southeast University, China.
+subtitle: Affiliations：<a href='https://aiia.seu.edu.cn/'>School of Artificial Intelligence, Southeast University</a> (current) |
+          <a href='https://www.cds.hku.hk/'>School of Computing & Data Science, The University of Hong Kong</a> (from Sep. 2026)
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
